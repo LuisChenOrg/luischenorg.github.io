@@ -317,7 +317,7 @@ a {
 }
 
 .icon.weibo:after {
-    content: "Weibo: viggoz"
+    content: "Weibo: winter"
 }
 
 .icon.instagram {
@@ -325,7 +325,7 @@ a {
 }
 
 .icon.instagram:after {
-    content: "Instagram: @viggozw"
+    content: "Instagram: @winter"
 }
 
 .icon.behance {
@@ -333,7 +333,7 @@ a {
 }
 
 .icon.behance:after {
-    content: "Behance: @viggoz"
+    content: "Behance: @winter"
 }
 
 .icon.twitter {
@@ -341,7 +341,7 @@ a {
 }
 
 .icon.twitter:after {
-    content: "Twitter: @viggo_z"
+    content: "Twitter: @winter"
 }
 
 .icon.github {
@@ -349,7 +349,7 @@ a {
 }
 
 .icon.github:after {
-    content: "github: @viggoz"
+    content: "github: @winter"
 }
 
 .icon.px {
@@ -357,7 +357,7 @@ a {
 }
 
 .icon.px:after {
-    content: "500px: @viggoz"
+    content: "500px: @winter"
 }
 
 .icon.uicn {
@@ -365,7 +365,7 @@ a {
 }
 
 .icon.uicn:after {
-    content: "UI.cn: @viggoz"
+    content: "UI.cn: @winter"
 }
 
 .icon.dribbble {
@@ -373,7 +373,28 @@ a {
 }
 
 .icon.dribbble:after {
-    content: "Dribbble: @viggoz"
+    content: "Dribbble: @winter"
+}
+
+.icon.csdn{
+    background-image: url(../images/icon-csdn.png)
+}
+.icon.csdn:after {
+    content: "csdn: winterchen001"
+}
+
+.icon.email{
+    background-image: url(../images/icon-email.png)
+}
+.icon.email:after {
+    content: "email: winter"
+}
+
+.icon.jianshu{
+    background-image: url(../images/icon-jianshu.png)
+}
+.icon.jianshu:after {
+    content: "jianshu: winter"
 }
 
 body {
