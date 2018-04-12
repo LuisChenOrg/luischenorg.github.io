@@ -397,6 +397,12 @@ a {
     content: "jianshu: winter"
 }
 
+.icon.resume{
+    background-image: url(../images/icon-resume.png)
+}
+.icon.resume:after {
+    content: "resume: winterchen"
+}
 body {
     background-color: #fff
 }
