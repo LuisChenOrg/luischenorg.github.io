@@ -715,7 +715,7 @@ header.main nav a {
     color: #666;
     font-weight: 600;
     letter-spacing: 1px;
-    margin: 0 1.5rem;
+    margin: 0 0.9rem;
     -webkit-transition: color 800ms ease, opacity 800ms ease;
     transition: color 800ms ease, opacity 800ms ease;
 }
@@ -732,3 +732,7 @@ header.main nav a.active {
         margin: 0 2rem;
     }
 }
+
+
+
+
