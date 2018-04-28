@@ -1,0 +1,15 @@
+docker run -d \
+--name anoyi-blog \
+-e JIANSHU_ID=a6fa02ee712b \
+-e WEB_NAME=Luis \
+-e GITHUB="https://github.com/WinterChenS" \
+-e GITLAB="https://gitee.com/winter_chen" \
+-e QQ=1085143002 \
+-e ICP=浙ICP备17056942号-2 \
+-e REWARD_IMAGES="" \
+-e REWARD_DESC="" \
+-e BLOG_TITLE="主不在乎" \
+-e BLOG_DESC="宇宙就是一座黑暗森林，每个文明都是带枪的猎人，像幽灵般潜行于林间，轻轻拨开挡路的树枝，竭力不让脚步发出一点儿声音，连呼吸都必须小心翼翼：他必须小心，因为林中到处都有与他一样潜行的猎人，如果他发现了别的生命，能做的只有一件事：开枪消灭之。在这片森林中，他人就是地狱，就是永恒的威胁，任何暴露自己存在的生命都将很快被消灭，这就是宇宙文明的图景。" \
+-e DING_TALK="https://oapi.dingtalk.com/robot/send?access_token=b1586fba8caf2c98bf6f1174b4ec57c75941553a15a75c437422f55fc1b76cd1" \
+-p 80:8080 \
+registry.cn-hangzhou.aliyuncs.com/anoy/blog
